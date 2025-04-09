@@ -1,4 +1,4 @@
-# Drupal arise (front-end bundler with SDC support)
+# Drupal front-end bundler with SDC support
 This is my build/bundler script (depends on esbuild) that I use everyday in my drupal projects.
 It has support for:
 - CSS/SASS
